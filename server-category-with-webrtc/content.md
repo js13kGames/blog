@@ -1,8 +1,20 @@
 ---
 title:   Server category with WebRTC
-authors: @aurium
 date:    2020-08-12
-tags:    [webrtc, server, github, stun, google, p2p, nat, multiplayer, mmo, datachannel, turn]
+authors:
+	- @aurium
+tags:    
+	- webrtc
+	- server
+	- github
+	- stun
+	- google
+	- p2p
+	- nat
+	- multiplayer
+	- mmo
+	- datachannel
+	- turn
 summary: Ok, WebRTC is not a “✨new thing™✨” in 2020, however, it was never possible to make a WebRTC-powered game in the js13kGames competition up until now.
 ---
 
